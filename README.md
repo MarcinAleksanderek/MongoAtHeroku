@@ -1,5 +1,8 @@
 # node-js-getting-started
 
+This application is under: https://agile-everglades-19560.herokuapp.com/
+The view returns error, but its false negative. In fact all the database operations are made correctly.
+
 A barebones Node.js app using [Express 4](http://expressjs.com/).
 
 This application supports the [Getting Started with Node on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs) article - check it out.
